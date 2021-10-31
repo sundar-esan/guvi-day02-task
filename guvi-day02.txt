@@ -1,0 +1,88 @@
+1)List 5 difference between Browser JS(console) v Nodejs
+    
+                          Java Script
+
+   A)Java Script is Programming Language.
+
+   B)Java Script is used for any client-side activity for a web application, especially for developing dynamic features.
+
+   C)Java Script can run on different browser engines like 
+   V8(Google Chrome),Spider Monkey(Firefox),Javascript Core(Safari).
+
+   D)Javascript is normally following JAVA Programming language standard.
+
+   E)For accessing any operating system,specific non-blocking task JavaScript has som especific object, 
+   but all of them are operating system specific.
+
+
+
+                              Node.js
+
+   A)Node.js is an interpreter and  a runtime environment designed for Javascript.
+
+   B)Node.js comes with some in-built modules that enhance the features of 
+   Javascript programming.
+
+   C)Node.js can be used on any operating system to develop applications that interact with system hardware,particularly for web backends.
+
+   D)Node.js only runs on the V8 engine used by Chrome.
+
+   E)Node.js used for accessing or performing any non-blocking operation of any operating system.
+
+  F)Node.js is written in C++ and provide a V8 engine base browser javascript running engine.
+
+ 
+
+2)Execute the below code and write your description in txt file
+
+A)typeof(1)===number.
+
+B)typeof(1.1)===number.
+
+C)typeof('1.1')===string.
+
+D)typeof(true)===Boolean.
+
+E)typeof(null)===Missing object.
+
+F)typeof(undefined)===Uninilized state.
+
+G)typeof([])===Array.
+
+H)typeof({})===Object.
+
+I)typeof(NaN)===Not a number ,technically a numeric data type,
+                 whose value cannot be represented using actual numbers.
+
+
+3)what is prototype?
+
+    Prototypes are the mechanism by  which Javascript Objects inherit
+features from one another.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
